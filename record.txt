@@ -125,3 +125,51 @@ Epoch [27/30], Loss: 0.6072, Accuracy: 0.7841
 Epoch [28/30], Loss: 0.6058, Accuracy: 0.7851
 Epoch [29/30], Loss: 0.5890, Accuracy: 0.7899
 Epoch [30/30], Loss: 0.5829, Accuracy: 0.7930
+
+adam_mobienet_lr0.001
+Epoch [1/30], Loss: 2.2344, Accuracy: 0.1742
+Epoch [2/30], Loss: 2.1801, Accuracy: 0.1925
+Epoch [3/30], Loss: 2.1842, Accuracy: 0.1885
+Epoch [4/30], Loss: 2.1757, Accuracy: 0.1874
+Epoch [5/30], Loss: 2.1423, Accuracy: 0.1984
+Epoch [6/30], Loss: 2.1342, Accuracy: 0.1981
+Epoch [7/30], Loss: 2.1144, Accuracy: 0.2080
+Epoch [8/30], Loss: 2.1215, Accuracy: 0.2050
+Epoch [9/30], Loss: 2.0982, Accuracy: 0.2152
+Epoch [10/30], Loss: 2.0874, Accuracy: 0.2170
+Epoch [11/30], Loss: 2.0796, Accuracy: 0.2232
+Epoch [12/30], Loss: 2.0694, Accuracy: 0.2266
+turn off
+
+SGD_mobienet_lr0.01
+Epoch [1/30], Loss: 2.3944, Accuracy: 0.1547
+Epoch [2/30], Loss: 2.2673, Accuracy: 0.1729
+Epoch [3/30], Loss: 2.2043, Accuracy: 0.1832
+Epoch [4/30], Loss: 2.1994, Accuracy: 0.1907
+Epoch [5/30], Loss: 2.1648, Accuracy: 0.1983
+Epoch [6/30], Loss: 2.1525, Accuracy: 0.2038
+Epoch [7/30], Loss: 2.1433, Accuracy: 0.2096
+Epoch [8/30], Loss: 2.1360, Accuracy: 0.2124
+Epoch [9/30], Loss: 2.1288, Accuracy: 0.2155
+Epoch [10/30], Loss: 2.1218, Accuracy: 0.2145
+Epoch [11/30], Loss: 2.1098, Accuracy: 0.2185
+Epoch [12/30], Loss: 2.0945, Accuracy: 0.2237
+Epoch [13/30], Loss: 2.0929, Accuracy: 0.2236
+Epoch [14/30], Loss: 2.0785, Accuracy: 0.2306
+Epoch [15/30], Loss: 2.0731, Accuracy: 0.2327
+Epoch [16/30], Loss: 2.0768, Accuracy: 0.2288
+Epoch [17/30], Loss: 2.0653, Accuracy: 0.2321
+Epoch [18/30], Loss: 2.0557, Accuracy: 0.2383
+Epoch [19/30], Loss: 2.0479, Accuracy: 0.2373
+Epoch [20/30], Loss: 2.0463, Accuracy: 0.2413
+Epoch [21/30], Loss: 2.0408, Accuracy: 0.2403
+Epoch [22/30], Loss: 2.0343, Accuracy: 0.2460
+Epoch [23/30], Loss: 2.0331, Accuracy: 0.2474
+Epoch [24/30], Loss: 2.0318, Accuracy: 0.2459
+Epoch [25/30], Loss: 2.0250, Accuracy: 0.2498
+Epoch [26/30], Loss: 2.0252, Accuracy: 0.2505
+Epoch [27/30], Loss: 2.0153, Accuracy: 0.2529
+Epoch [28/30], Loss: 2.0139, Accuracy: 0.2584
+Epoch [29/30], Loss: 2.0103, Accuracy: 0.2573
+Epoch [30/30], Loss: 2.0062, Accuracy: 0.2581
+
